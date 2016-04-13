@@ -21,9 +21,12 @@
     [self.window makeKeyAndVisible];
 
     self.window.backgroundColor = [UIColor whiteColor];
-    /**
-     *  Description
-     */
+<<<<<<< HEAD
+=======
+    
+    //fhieyrnfksdfhadf
+    
+>>>>>>> dev
     return YES;
 }
 
