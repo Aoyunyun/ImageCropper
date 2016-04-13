@@ -13,7 +13,10 @@
 	[super loadView];
 	
 	imageView = [[UIImageView alloc] initWithImage:[UIImage imageNamed:@"SteveJobsMacbookAir.JPG"]];
-	[imageView setFrame:CGRectMake(80.0, 20.0, 160.0, 230.0)];
+//	[imageView setFrame:CGRectMake(80.0, 20.0, 160.0, 230.0)];
+    
+    
+    
 	[imageView setContentMode:UIViewContentModeScaleAspectFit];
 	
 	[[self view] addSubview:imageView];
